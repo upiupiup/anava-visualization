@@ -6,7 +6,7 @@
 
 This project presents a data-driven visualization and analysis of Indonesia’s solar energy landscape. It integrates raw solar potential data, energy production records, and national energy statistics to explore utilization gaps, production variability, and system-level implications for smart grid optimization.
 
-The project was developed as part of **ANAVA #20**, a national data analytics and visualization competition organized by Universitas Gadjah Mada, where the project was selected as a **Top 12 Finalist out of 96 teams**.
+The project was developed as part of **ANAVA #20**, a national data analytics and visualization competition organized by Universitas Gadjah Mada, where the project was selected as a **Top 12 out of 96 teams**.
 
 ## Project Overview
 
