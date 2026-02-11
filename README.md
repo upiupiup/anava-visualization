@@ -106,7 +106,7 @@ https://drive.google.com/file/d/1Tx_2sIe0rFJS1Xl7aERStChdwJ9u-yWh/view?usp=shari
 - Forecasting: ETS, ARIMA, SARIMA, Prophet  
 - Domain: Energy Analytics, Smart Grid Systems  
 
-## Contrubutors
+## Contributors
 
 - Aufii Fathin Nabila
 - Batsnah Nabila Zahidah
