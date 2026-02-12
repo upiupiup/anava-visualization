@@ -69,8 +69,10 @@ SARIMA was selected as the final forecasting approach due to its suitability for
 │ │ ├── Plant_1_Weather_Sensor_Data.csv
 │ │ ├── Plant_2_Generation_Data.csv
 │ │ └── Plant_2_Weather_Sensor_Data.csv
-│
-├── notebook.ipynb
+│ │
+│ ├── notebook/
+│   └── visualization_nb.ipynb
+│ 
 └── README.md
 ```
 
